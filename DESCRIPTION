@@ -7,9 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "arh2207@columbia.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: A set of functions that assist exploration of AP clustering
-parameter space.  Tests 4 similarity metrics with minimum and first 4 quartiles
-of data along diagonal.  Returns an object that contains testing results
+Description: A set of functions that assist exploration of AP clustering parameter space.  Tests 4 similarity metrics with minimum and first 4 quartiles of data along diagonal.  Returns an object that contains testing results
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
@@ -21,7 +19,7 @@ Imports:
   ggplot2,
   mcclust,
   philentropy
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Suggests: 
     knitr,
     rmarkdown
